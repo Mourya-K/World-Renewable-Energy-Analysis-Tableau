@@ -1,4 +1,4 @@
-# World-Renewable-Energy-Analysis
+# World-Renewable-Energy-Analysis-Tableau
 World Renewable Energy Analysis through Tableau and SQL
 ### Link to Dataset: https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022
 
